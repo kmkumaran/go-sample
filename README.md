@@ -7,3 +7,4 @@ This is a sample GO Lang web application that you can deploy to Azure.
 
 History
 1. sample edit
+2. Checking review app
